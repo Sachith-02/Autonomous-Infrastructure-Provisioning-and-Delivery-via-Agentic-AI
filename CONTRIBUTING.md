@@ -90,7 +90,6 @@ When behavior changes, update:
 - [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)
 - [docs/AGENT_DESIGN.md](docs/AGENT_DESIGN.md)
 - [docs/API_REFERENCE.md](docs/API_REFERENCE.md)
-- demo/evaluation docs if the UI flow changes.
 
 ## 7. Quality Checks
 
